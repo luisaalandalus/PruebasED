@@ -6,7 +6,7 @@ package calculadora2;
 
 /**
  *
- * @author LUISA PARRA
+ * @author LUISA PARRA GARCÍA
  */
 public class calculadora extends javax.swing.JFrame {
         
