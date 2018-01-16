@@ -6,7 +6,7 @@ package calculadora2;
 
 /**
  *
- * @author Juan Carlos Arcila Díaz carlos_ad_6@hotmail.com
+ * @author LUISA PARRA
  */
 public class calculadora extends javax.swing.JFrame {
         
